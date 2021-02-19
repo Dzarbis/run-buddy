@@ -6,7 +6,7 @@
 
 body {
     color: #39a6b2;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 /* apply styles to <header> */
@@ -46,7 +46,7 @@ header nav ul li a {
 footer {
     background: #fce138;
     width: 100%;
-    padding: 40ps 35px;
+    padding: 40px 35px;
 }
 
 footer h2 {
